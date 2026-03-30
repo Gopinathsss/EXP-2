@@ -46,7 +46,7 @@ Procedure for Load test:
 5.   The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
-Open circuit characteristics:-
+### Open circuit characteristics:-
 Circuit Diagram:
 
 ![566436458-d7a611c7-b992-4260-9b1f-bbfe747261cb](https://github.com/user-attachments/assets/9c92e0ff-6f73-4795-bd5b-b6005c308e01)
